@@ -1,6 +1,6 @@
 # Data Science e Machine Learning com Estatística e Python
 
- ![](https://www.google.com/search?q=Data+Science+e+Machine+Learning+com+Estat%C3%ADstica+e+Python&client=ubuntu&hs=i2W&channel=fs&sxsrf=ALeKk0309y89f0QKyrhMlDyHVVhRYXKDHA:1598897388839&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi5gZP3hMbrAhWhIbkGHeiDDXkQ_AUoA3oECAwQBQ&biw=1315&bih=639#imgrc=xvYUVhrVwAMJdM)
+ ![]('https://www.google.com/search?q=Data+Science+e+Machine+Learning+com+Estat%C3%ADstica+e+Python&client=ubuntu&hs=i2W&channel=fs&sxsrf=ALeKk0309y89f0QKyrhMlDyHVVhRYXKDHA:1598897388839&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi5gZP3hMbrAhWhIbkGHeiDDXkQ_AUoA3oECAwQBQ&biw=1315&bih=639#imgrc=xvYUVhrVwAMJdM')
 
 ### Ementa do curso
 
